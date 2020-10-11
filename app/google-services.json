@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1073235742155",
+    "firebase_url": "https://payo-15ac8.firebaseio.com",
+    "project_id": "payo-15ac8",
+    "storage_bucket": "payo-15ac8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073235742155:android:b35c497394c3b58de37a4e",
+        "android_client_info": {
+          "package_name": "com.himanshu.payo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073235742155-o255garg83ecndmfa0kquq1b8q2uuj09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyLrUSjq1RM9WM0SLVD0GZTG2NdU5DrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073235742155-o255garg83ecndmfa0kquq1b8q2uuj09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
